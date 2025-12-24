@@ -1,7 +1,7 @@
 # 🚀 duifene-download (对分易批量下载助手)
 
 ![Version](https://img.shields.io/badge/version-2.6-blue)
-![License](https://img.shields.io/github/license/你的GitHub用户名/duifene-download)
+![License](https://img.shields.io/github/license/HMuSeaB/duifene-download)
 
 这是一个用于**对分易 (Duifene)** 教学平台的油猴脚本。它主要用于解锁受限资源下载，并提供舒适的 UI 和批量操作功能。
 
